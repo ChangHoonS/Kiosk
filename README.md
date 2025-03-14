@@ -1,5 +1,11 @@
 # ✔ Project Kiosk
 
+#### 참조
+- practice 패키지는 연습용입니다.
+- project 패키지를 보시면 됩니다.
+- projectone 패키지는 필수 과제입니다.
+- projecttwo 패키지는 도전 과제입니다.
+
 ### 프로젝트 소개
 Java 사용법을 익히고 객체지향을 활용하여 코드를 짜며 Kiosk라는 사물을 가지고개발하며 
 
